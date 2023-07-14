@@ -1,2 +1,2 @@
 # product_management_BE
-simple restapi using java sprintboot
+simple restapi using java springboot
